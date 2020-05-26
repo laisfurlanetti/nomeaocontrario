@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\nomeaocontrario\bin\Debug\nomeaocontrario.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\nomeaocontrario\bin\Debug\nomeaocontrario.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\nomeaocontrario\bin\Debug\nomeaocontrario.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\nomeaocontrario\obj\Debug\nomeaocontrario.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\nomeaocontrario\obj\Debug\nomeaocontrario.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\nomeaocontrario\obj\Debug\nomeaocontrario.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\nomeaocontrario\obj\Debug\nomeaocontrario.pdb
